@@ -3,7 +3,7 @@
 int main()
 {
 	init();
-	srand(GetTickCount() *100);
+	srand(GetTickCount() * 100);
 
 	
 	m_sc();//加载主界面
